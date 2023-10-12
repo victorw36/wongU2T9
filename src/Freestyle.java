@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Freestyle {
+public class Freestyle {
+    public static void main(String[] args) {
+
+
+
+
+    }
 }
